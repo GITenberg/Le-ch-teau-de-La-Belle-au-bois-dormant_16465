@@ -1,0 +1,40 @@
+_repo: Le-ch-teau-de-La-Belle-au-bois-dormant_16465
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Julien
+    - Viaud, Louis Marie Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16465'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'French literature -- 20th century'
+tableOfContents: La maison des aïeules -- Le château de la Belle-au-bois-dormant --
+  Noyade de chat -- L'agonie de l'Euzkalerria -- Le gai pèlerinage de Saint-Martial
+  -- Premier aspect de Londres -- Berlin vu de la mer des Indes -- Vieille barque,
+  vieux batelier -- Procession de Vendredi Saint en Espagne -- Un vieux collier --
+  Préface pour un livre qui ne fut jamais publié -- Quelques pensées vraiment aimables
+  -- En passant à Mascate -- Après l'effondrement de Messine, en 1909 -- Photographies
+  d'hier et d'aujourd'hui -- Ceux devant qui il faudrait plier le genou -- Les pagodes
+  d'or.
+title: Le château de La Belle-au-bois-dormant
+url: http://www.gutenberg.org/ebooks/16465
